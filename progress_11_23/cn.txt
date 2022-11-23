@@ -1,0 +1,14 @@
+新的资料：
+https://www.spsspro.com/?utm_source=zhihu
+因子分析
+https://chn.oversea.cnki.net.remotexs.ntu.edu.sg/KXReader/Detail?invoice=ZWrhyrYwFbnNMTWD%2FiHSPuorPeefVPTP0FNYiMYeYRzMFeXxasP9jWTt3Y0CEQ0H6LgtjKn5PZTAogviqjNLiiqF2QDuzkGSkcDExRd4EbVDUxc%2FQC04GxJa7Atyyrbtb7P%2BvLjOx%2Fs8Gmrct45wH6pF4eLBZXv30uOhMvpIJsQ%3D&DBCODE=CJFD&FileName=XDQB202211002&TABLEName=cjfdauto&nonce=FACA6620039F4785BEF6C4DDFFE8441E&uid=&TIMESTAMP=1669186949258
+
+想法更新：
+构造特征向量---->探索性因子分析
+因子分析代替手工制造变量
+因子分析工具：SPSS
+数学原理：还没搞明白
+本周cn任务：写一个因子分析的原理性report，实现demo，周五share
+
+
+
