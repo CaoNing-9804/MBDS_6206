@@ -1,2 +1,4 @@
 # MBDS_6206
-User profiling analysis
+## Target:
+1. customer segmentation
+2. loyal customer detection
